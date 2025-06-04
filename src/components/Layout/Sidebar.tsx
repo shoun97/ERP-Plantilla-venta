@@ -54,7 +54,7 @@ const Sidebar: React.FC = () => {
         } lg:static lg:shadow-none shadow-xl overflow-y-auto`}
       >
         <div className="sticky top-0 bg-gradient-to-br from-pink-50 to-purple-50 p-6">
-          <h1 className="text-xl sm:text-2xl font-bold text-pink-700 font-display mb-1">Nail Studio</h1>
+          <h1 className="text-xl sm:text-2xl font-bold text-pink-700 font-display mb-1">Pepe Menu</h1>
           <p className="text-xs sm:text-sm text-gray-500 mb-6">Sistema de Gestión</p>
 
           <nav className="space-y-1">
